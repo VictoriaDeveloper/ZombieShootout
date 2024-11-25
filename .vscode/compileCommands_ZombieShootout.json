@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\Bullet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\Bullet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\Enemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\Enemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\EnemySpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\EnemySpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\TopdownShooterGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\TopdownShooterGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\TopdownShooterPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\TopdownShooterPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\ZombieShootout.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\ZombieShootout.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\Source\\ZombieShootout\\ZombieShootout.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\ZombieShootout\\.vscode\\compileCommands_ZombieShootout\\ZombieShootout.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
